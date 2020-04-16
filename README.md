@@ -17,3 +17,9 @@ export const ID_TOKEN_KEY = "todo-id-token";<br/>
 export const NONCE_KEY = "todo-nonce";<br/>
 export const GRAPHQL_ENDPOINT = "~Hasura graphql host id~";<br/>
 export const AUTH_NAMESPACE = "https://user";<br/>
+
+#App Interface
+
+![Image description](Auth0_l.jpeg)
+
+
